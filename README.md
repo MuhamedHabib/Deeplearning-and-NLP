@@ -1,10 +1,4 @@
-# Deeplearning
-
-I will update this repository to learn Deeplearning with Tensorflow and Keras
-
-
-[Day - 1](https://github.com/nursnaaz/Deeplearning/tree/master/01%20-%20Day%20-%201%20Neural%20Network%20Basics): 25-8-2019
-We Learnt about 
+FIRST WEEK:
 
 1. Basic building blocks of Neural Network<br>
 2. Perceptron<br>
@@ -21,7 +15,8 @@ We Learnt about
 12. Tensorflow - Keras practical<br>
 
 
-[Day - 2](https://github.com/nursnaaz/Deeplearning/tree/master/02%20-%20Day%20-%202%20Convolution%20NN): 31-8-2019 
+SECOND WEEK:
+
 1. Parameter explotion in image recognition
 2. Convolution layer - kernel , filter, Stride, Padding, feature map
 3. Pooling Layer - max, min, average
@@ -36,7 +31,8 @@ We Learnt about
 12. Opencv, Yolo3
 13. Sample Hackathon
 
-[Day - 3](https://github.com/nursnaaz/Deeplearning/tree/master/03%20-%20Day%20-%203%20Reccurent%20NN): 01-9-2019 
+THIRD WEEK:
+
 1. Neural Network so far can only know what was passed in current time
 2. What if we want to remember last output to predict the future if it is a sequence data
 3. Neuron with memory
